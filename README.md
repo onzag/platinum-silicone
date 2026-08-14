@@ -28,6 +28,7 @@ Hopefully reading this guide will provide you with greater understanding of what
   - Gluing to fabric.
   - Gluing to tin silicone.
   - Mechanical direct gluing.
+  - Gluing using Cloth and Sewing.
 6. Reinforcing plat silicone and changing its properties.
   - Modacrylic fibers.
   - Cloth.
