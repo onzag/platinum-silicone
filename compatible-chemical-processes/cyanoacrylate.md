@@ -22,7 +22,7 @@ Note however that gluing silicone to that smooth surface later might prove more 
 
 Cyanoacrylate can serve as aid when gluing platinum silicone to other surfaces like hard plastic and metal, but only if the force to be applied is parallell to the gluing surface; and only if the platinum silicone surface to glue is matte and not glossy.
 
-Trying to see if it works out is usually a non issue as it either works or doesn't causing no damage to the silicone, but it might affect the plastic surface, making it more difficult to bond; which is why I recommend roughening the plastic first, or inserting a piece of mosquito net or some cloth to change the properties.
+Trying to see if it works out is usually a non issue as it either works or doesn't causing no damage to the silicone, but it might affect the plastic surface, making it more difficult to bond later with another agent if the gluing attempt fails; which is why I recommend roughening the plastic first, or inserting a piece of mosquito net or some cloth to change the properties.
 
 This method was found and used in puppets that I made that held for years, however the only part of known use was around the skull, in the cheekbones, as they take forces parallell to the gluing surface when opening the mouth.
 
